@@ -5,6 +5,6 @@
 
 host-suffix, openai.com, OPENAI
 host-suffix, chatgpt.com, OPENAI
-host—suffix,api.revenuecat.com ,OPENAI
+host—suffix, revenuecat.com，OPENAI
 host-keyword, icloud, direct
 geoip,CN,direct
