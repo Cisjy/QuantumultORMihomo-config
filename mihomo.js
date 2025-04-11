@@ -3,7 +3,7 @@
 function main(params) {
   if (!params.proxies) return params;
   overwriteBasicOptions(params);
-  #overwriteDns(params);
+  overwriteDns(params);
   overwriteFakeIpFilter(params);
   overwriteNameserverPolicy(params);
   overwriteHosts(params);
